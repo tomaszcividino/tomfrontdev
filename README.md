@@ -6,11 +6,11 @@ I am an ambitious person, constantly learning and developing. I have an open min
 
 ## Tech stack: 
 
-React, React Redux, React Routing, TypeScript, HTML, Scss, React Native, FireBase, REST APi, Github, VSCode
+React, Redux, React Native, React Query, React Routing, TypeScript, HTML, Scss, React Native, FireBase, REST APi, Github, VSCode
 
-## Projects: 
+## Learning (non-commercial) Projects: 
 
- I will be pleased if you check my projects, feedback is highly appreciated! My main projects are pinned. If you want to know more about certain project, please look at the descriptions in each repository. Sites are live and uploaded to GitHub Pages. Direct links below:
+These are my initial non-commercial projects that I've undertaken as part of enhancing my front-end development skills:
 
 React Movie App: https://tomfrontdev.github.io/Movie-App-React/
 
